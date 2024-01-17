@@ -35,5 +35,6 @@ public class Gui{
     private void openLecturerPage(String username) {
         JFrame lecturerFrame = new LecturerPage(username);
         lecturerFrame.setVisible(true);
+        //hi//
     }
 }
